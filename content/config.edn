@@ -1,0 +1,32 @@
+{:site-title         "gdeer81"
+ :author             "Gary Deer"
+ :description        "My dev Blog and what not"
+ :site-url           "https://gdeer81.github.io"
+ :post-root          "posts"
+ :page-root          "pages"
+ :post-root-uri      "posts-output"
+ :page-root-uri      "pages-output"
+ :tag-root-uri       "tags-output"
+ :author-root-uri    "authors-output"
+ :public-dest       "public"
+ :blog-prefix        ""
+ :rss-name           "feed.xml"
+ :rss-filters        ["cryogen"]
+ :recent-posts       1
+ :post-date-format   "yyyy-MM-dd"
+ :sass-src           []
+ :sass-dest          "sass"
+ :theme              "lotus"
+ :resources          ["img"]
+ :keep-files         [".git"]
+ :disqus?            false
+ :disqus-shortname   ""
+ :ignored-files      [#"\.#.*" #".*\.swp$"]
+ :previews?          false
+ :posts-per-page     5
+ :blocks-per-preview 2
+ :clean-urls        :trailing-slash
+ :collapse-subdirs?  false
+ :klipse             {}
+ :description-include-elements #{:p :h1 :h2 :h3 :h4 :h5 :h6}
+ :debug?             false}
