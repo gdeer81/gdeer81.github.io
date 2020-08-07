@@ -16,7 +16,7 @@
  :post-date-format   "yyyy-MM-dd"
  :sass-src           []
  :sass-dest          "sass"
- :theme              "lotus"
+ :theme              "grey_centered"
  :resources          ["img"]
  :keep-files         [".git"]
  :disqus?            false

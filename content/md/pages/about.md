@@ -8,14 +8,14 @@ My aren't we a curious cat?
 This page was last updated August 2020
 
 # A Little History
-          So that we may not repeat it
+> So that we may not repeat it
 
 Originally tried to maintain a developer blog like some of my favorite "thought leaders"
 
 However, I underestimated the work it takes to keep this thing going
 
 ## another attempt
-         maybe try something a bit different, yeah?
+> maybe try something a bit different, yeah?
 
 I thought maybe I was fiddling with the site generator and trying to find a good design for my site was eating up too much time
 
@@ -25,10 +25,10 @@ That lasted maybe a week. The project and the posting.
 
 ### and then the site goes dead
 
-                    That was around 2015
+> That was around 2015
 
 ## Now we pick up where we left off
-                    This time will be different, yeah?
+>  This time will be different, yeah?
 
 Now it's 2020 and the world is a mess and we're all stuck inside so
 but working from home is great and as it turns out, not being stuck in an office all day does wonders for my motivation
@@ -44,4 +44,4 @@ I've been so excited about it that I've been posting in the Gitter chat all the 
 
 Since the technology stack I'm using is alpha level I will try to keep on top of updating any posts that have code or statements that are out of date. There's nothing worse than not being correct on the internet.
 
-See you in [the Archives...](/archives)
+### See you in [the Archives...](/archives)

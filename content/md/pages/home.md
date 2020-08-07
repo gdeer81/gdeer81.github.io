@@ -1,27 +1,22 @@
-{:title "Game Dev in Clojure?!"
+{:title "(ﾉ◕ヮ◕)ﾉ*:･ﾟ*:･ﾟ✧ (iterate spit all-the-things) "
  :layout :page
  :home? true
  :toc false}
 
- This is my third attempt at making games in Unity with Clojure and it's going well
+> OH HAi | Thanks for stopping buy
 
-## Tools
+# This is the mind dump for things I'm working on
 
-* Unity 3d
-* Gnu Image Manipulation Tool (Until I breakdown and get a subscription to photoshop)
-* Intellij with Cursive (no, I'm not using <insert your favorite editor here>, want to fight about it?)
+## Check the [Portfolio](/portfolio) for fun stuff
 
-## Libraries
+### Here's a preview of what I'm currently working on:
 
-* [Arcadia](https://github.com/arcadia-unity/Arcadia) Literally the only way to use Clojure with Unity and what 80% of my posts will be about
-* [Hard](https://github.com/selfsame/hard) It has some convenience functions and hides some messy interop code with nice pretty Clojure code
-* [Tween](https://github.com/selfsame/tween) An amazing tweening library and is my go-to for easily writing wacky - waving - inflatable - arm - flailing - tube - man code
-* [Pastoral](https://github.com/flybot-sg/Pastoral) using re-frame in Arcadia? sign me up! There aren't any docs on how to use it? yikes, okay I'll figure it out.
+`` (GameObject/Instantiate
+  (Resources/Load "panda" GameObject))`` ![Welcome Panda](/img/panda_small.png)
 
-I'll be updating my [Portfolio](/portfolio) page whenever I feel a project or game is worth sharing or is a major milestone for me (like my first board game etc.)
+# We'll see you in [the Archives...](/archives)
 
-For the time being I'll mostly be posting code snippets and random thought experiments
 
-Thanks for reading and
+### My tech stack is influenced by my books stack
 
-We'll see you in [the Archives...](/archives)
+`` (precariously-stack (take 25 @my-books)) => `` ![ermagerd berks](/img/books_small.png)
