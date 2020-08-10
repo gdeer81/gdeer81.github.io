@@ -7,7 +7,7 @@
 
 # This is the mind dump for things I'm working on
 
-## Check the [Portfolio](/portfolio) for fun stuff
+## Check the [Portfolio](/pages-output/portfolio) for fun stuff
 
 ### Here's a preview of what I'm currently working on:
 
